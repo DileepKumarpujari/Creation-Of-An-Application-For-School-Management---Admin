@@ -1,1 +1,1 @@
-# Creation-Of-An-Application-For-School-Management---Admin
+# Creation Of An Application For School Management
